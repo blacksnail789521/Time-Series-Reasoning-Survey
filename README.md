@@ -23,14 +23,16 @@ The following table presents the unified taxonomy and tags for all papers we rev
 
 ## Curated Papers
 
-| Venue | Link | Paper | Reasoning Topology | Primary Objective | Primary Objective Subcategory | T-Dec | T-Ver | T-Ens | T-Tool | T-Know | T-Multi | T-Agent | T-Align |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| ...... | ...... | ............................................................................................ | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
-| NeurIPS   2023 | https://arxiv.org/abs/2310.07820 | Large Language Models Are Zero-Shot Time Series Forecasters | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | 0 | P |
-| ICML 2025 | https://arxiv.org/abs/2410.18959 | Context is Key: A Benchmark for Forecasting with Essential   Textual Information | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | P |
-| arXiv 2025 | https://arxiv.org/abs/2508.04239 | DP-GPT4MTS: Dual-Prompt Large Language Model for   Textual-Numerical Time Series Forecasting | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | S |
-| ICLR 2024 | https://arxiv.org/abs/2310.04948 | TEMPO: Prompt-based Generative Pre-trained Transformer for   Time Series Forecasting | Direct Reasoning | Traditional Time Series Analysis | Forecasting | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | S |
-| arXiv 2024 | https://arxiv.org/abs/2412.04806 | Rethinking Time Series Forecasting with LLMs via Nearest   Neighbor Contrastive Learning | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | 0 | S |
+| Paper | Reasoning Topology | Primary Objective | Primary Objective Subcategory | T-Dec | T-Ver | T-Ens | T-Tool | T-Know | T-Multi | T-Agent | T-Align |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| .................................................................................... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
+| [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820) [NeurIPS 2023] | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | 0 | P |
+| [Context is Key: A Benchmark for Forecasting with Essential Textual Information](https://arxiv.org/abs/2410.18959) [ICML 2025] | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | P |
+| [DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting](https://arxiv.org/abs/2508.04239) [arXiv 2025] | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | S |
+| [TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting](https://arxiv.org/abs/2310.04948) [ICLR 2024] | Direct Reasoning | Traditional Time Series Analysis | Forecasting | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | S |
+| [Rethinking Time Series Forecasting with LLMs via Nearest Neighbor Contrastive Learning](https://arxiv.org/abs/2412.04806) [arXiv 2024] | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | 0 | S |
+
+
 
 
 
