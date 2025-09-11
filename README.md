@@ -24,12 +24,26 @@ The following table presents the unified taxonomy and tags for all papers we rev
 ## Curated Papers
 
 <table border="1" cellspacing="0" cellpadding="5">
+  <colgroup>
+    <col style="width: 40%"> <!-- Paper -->
+    <col style="width: 12%"> <!-- Reasoning Topology -->
+    <col style="width: 15%"> <!-- Primary Objective -->
+    <col style="width: 18%"> <!-- Primary Objective Subcategory -->
+    <col style="width: 3%">  <!-- T-Dec -->
+    <col style="width: 3%">  <!-- T-Ver -->
+    <col style="width: 3%">  <!-- T-Ens -->
+    <col style="width: 3%">  <!-- T-Tool -->
+    <col style="width: 3%">  <!-- T-Know -->
+    <col style="width: 3%">  <!-- T-Multi -->
+    <col style="width: 3%">  <!-- T-Agent -->
+    <col style="width: 4%">  <!-- T-Align -->
+  </colgroup>
   <thead>
     <tr>
-      <th width="1000">Paper</th>
-      <th width="150">Reasoning Topology</th>
-      <th width="180">Primary Objective</th>
-      <th width="220">Primary Objective Subcategory</th>
+      <th>Paper</th>
+      <th>Reasoning Topology</th>
+      <th>Primary Objective</th>
+      <th>Primary Objective Subcategory</th>
       <th>T-Dec</th>
       <th>T-Ver</th>
       <th>T-Ens</th>
@@ -46,59 +60,60 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>TRUE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>0</td>
-      <td>P</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">TRUE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">0</td>
+      <td align="center">P</td>
     </tr>
     <tr>
       <td>Context is Key: A Benchmark for Forecasting with Essential Textual Information</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>TRUE</td>
-      <td>0</td>
-      <td>P</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">TRUE</td>
+      <td align="center">0</td>
+      <td align="center">P</td>
     </tr>
     <tr>
       <td>DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>TRUE</td>
-      <td>0</td>
-      <td>S</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">TRUE</td>
+      <td align="center">0</td>
+      <td align="center">S</td>
     </tr>
     <tr>
       <td>TEMPO: Prompt-Based Generative Pre-Trained Transformer for Time Series Forecasting</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
-      <td>TRUE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>FALSE</td>
-      <td>TRUE</td>
-      <td>0</td>
-      <td>S</td>
+      <td align="center">TRUE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">FALSE</td>
+      <td align="center">TRUE</td>
+      <td align="center">0</td>
+      <td align="center">S</td>
     </tr>
   </tbody>
 </table>
+
 
 
 ---
