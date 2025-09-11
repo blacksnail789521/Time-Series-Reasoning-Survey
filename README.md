@@ -24,9 +24,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
 ## Curated Papers
 
 <div style="overflow-x: auto; width:100%;">
-
 <table style="width:100%" border="2" cellspacing="0" cellpadding="5">
-
   <thead>
     <tr>
       <th>Paper</th>
@@ -43,7 +41,6 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <th>T-Align</th>
     </tr>
   </thead>
-
   <tbody>
     <tr>
       <td>Large Language Models Are Zero-Shot Time Series Forecasters</td>
@@ -59,7 +56,6 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">0</td>
       <td align="center">P</td>
     </tr>
-
     <tr>
       <td>Context is Key: A Benchmark for Forecasting with Essential Textual Information</td>
       <td>Direct Reasoning</td>
@@ -74,7 +70,6 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">0</td>
       <td align="center">P</td>
     </tr>
-
     <tr>
       <td>DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting</td>
       <td>Direct Reasoning</td>
@@ -89,7 +84,6 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">0</td>
       <td align="center">S</td>
     </tr>
-
     <tr>
       <td>TEMPO: Prompt-Based Generative Pre-Trained Transformer for Time Series Forecasting</td>
       <td>Direct Reasoning</td>
@@ -105,10 +99,8 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">S</td>
     </tr>
   </tbody>
-
 </table>
 </div>
-
 
 
 
