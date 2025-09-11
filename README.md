@@ -23,20 +23,21 @@ The following table presents the unified taxonomy and tags for all papers we rev
 
 ## Curated Papers
 
-<table border="1" cellspacing="0" cellpadding="5">
+<div style="overflow-x:auto;">
+<table border="1" cellspacing="0" cellpadding="5" style="min-width:1200px; border-collapse:collapse;">
   <colgroup>
-    <col style="width: 40%"> <!-- Paper -->
-    <col style="width: 12%"> <!-- Reasoning Topology -->
-    <col style="width: 15%"> <!-- Primary Objective -->
-    <col style="width: 18%"> <!-- Primary Objective Subcategory -->
-    <col style="width: 3%">  <!-- T-Dec -->
-    <col style="width: 3%">  <!-- T-Ver -->
-    <col style="width: 3%">  <!-- T-Ens -->
-    <col style="width: 3%">  <!-- T-Tool -->
-    <col style="width: 3%">  <!-- T-Know -->
-    <col style="width: 3%">  <!-- T-Multi -->
-    <col style="width: 3%">  <!-- T-Agent -->
-    <col style="width: 4%">  <!-- T-Align -->
+    <col style="width: 42%;">  <!-- Paper -->
+    <col style="width: 12%;">  <!-- Reasoning Topology -->
+    <col style="width: 15%;">  <!-- Primary Objective -->
+    <col style="width: 18%;">  <!-- Subcategory -->
+    <col style="width: 3%;">   <!-- T-Dec -->
+    <col style="width: 3%;">   <!-- T-Ver -->
+    <col style="width: 3%;">   <!-- T-Ens -->
+    <col style="width: 3%;">   <!-- T-Tool -->
+    <col style="width: 3%;">   <!-- T-Know -->
+    <col style="width: 3%;">   <!-- T-Multi -->
+    <col style="width: 3%;">   <!-- T-Agent -->
+    <col style="width: 4%;">   <!-- T-Align -->
   </colgroup>
   <thead>
     <tr>
@@ -56,7 +57,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
   </thead>
   <tbody>
     <tr>
-      <td>Large Language Models Are Zero-Shot Time Series Forecasters</td>
+      <td style="white-space:nowrap;">Large Language Models Are Zero-Shot Time Series Forecasters</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
@@ -70,7 +71,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">P</td>
     </tr>
     <tr>
-      <td>Context is Key: A Benchmark for Forecasting with Essential Textual Information</td>
+      <td style="white-space:nowrap;">Context is Key: A Benchmark for Forecasting with Essential Textual Information</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
@@ -84,7 +85,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">P</td>
     </tr>
     <tr>
-      <td>DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting</td>
+      <td style="white-space:nowrap;">DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
@@ -98,7 +99,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">S</td>
     </tr>
     <tr>
-      <td>TEMPO: Prompt-Based Generative Pre-Trained Transformer for Time Series Forecasting</td>
+      <td style="white-space:nowrap;">TEMPO: Prompt-Based Generative Pre-Trained Transformer for Time Series Forecasting</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
@@ -113,6 +114,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
     </tr>
   </tbody>
 </table>
+</div>
 
 
 
