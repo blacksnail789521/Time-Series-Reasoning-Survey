@@ -21,7 +21,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
 
 ---
 
-## Curated Papers
+## Research Papers
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paper&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Reasoning Topology | Primary Objective | Primary Objective Subcategory | T-Dec | T-Ver | T-Ens | T-Tool | T-Know | T-Multi | T-Agent | T-Align |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -103,10 +103,61 @@ The following table presents the unified taxonomy and tags for all papers we rev
 | [BRIDGE: Bootstrapping Text to Control Time-Series Generation   via Multi-Agent Iterative Optimization and Diffusion Modeling](https://openreview.net/forum?id=uRD6wkqulN) [ICML 2025] | Branch | TS Gen. | Cond. Synth. | ✔ | ✔ |  | ✔ | ✔ | ✔ | M | P |
 
 
+---
 
+## Non-Research Papers
 
-
-
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paper&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Type |
+| --- | --- |
+| [Evaluating Large Language Models on Time Series Feature   Understanding: A Comprehensive Taxonomy and Benchmark](https://aclanthology.org/2024.emnlp-main.1204/) [EMNLP 2024] | Reasoning-First Benchmarks |
+| [Implicit Reasoning in Deep Time Series Forecasting](https://openreview.net/forum?id=PFZiJwX9j5) [NeurIPS Workshop on Time   Series in the Age of Large Models 2024] | Reasoning-First Benchmarks |
+| [Investigating Compositional Reasoning in Time Series   Foundation Models](https://arxiv.org/abs/2502.06037) [arXiv 2025] | Reasoning-First Benchmarks |
+| [Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot   Time Series Forecasting: A Benchmark and Insights](https://arxiv.org/abs/2503.01895) [arXiv 2025] | Reasoning-First Benchmarks |
+| [MTBench: A Multimodal Time Series Benchmark for Temporal   Reasoning and Question Answering](https://arxiv.org/abs/2503.16858) [arXiv 2025] | Reasoning-First Benchmarks |
+| [Time-MQA: Time Series Multi-Task Question Answering with   Context Enhancement](https://aclanthology.org/2025.acl-long.1437/) [ACL 2025] | Reasoning-First Benchmarks |
+| [PUB: Plot Understanding Benchmark and Dataset for Evaluating   Large Language Models on Synthetic Visual Data Interpretation](https://arxiv.org/abs/2409.02617) [arXiv 2024] | Reasoning-First Benchmarks |
+| [Context is Key: A Benchmark for Forecasting with Essential   Textual Information](https://arxiv.org/abs/2410.18959) [ICML 2025] | Reasoning-First Benchmarks |
+| [TimeSeriesGym: A Scalable Benchmark for (Time Series) Machine   Learning Engineering Agents](https://arxiv.org/abs/2505.13291) [arXiv 2025] | Reasoning-First Benchmarks |
+| [SocioDojo: Building Lifelong Analytical Agents with Real-world   Text and Time Series](https://openreview.net/forum?id=s9z0HzWJJp) [ICLR 2024] | Reasoning-First Benchmarks |
+| [Inferring Events from Time Series using Language Models](https://arxiv.org/abs/2503.14190) [arXiv 2025] | Reasoning-First Benchmarks |
+| [Intervention-Aware Forecasting: Breaking Historical Limits   from a System Perspective](https://arxiv.org/abs/2405.13522) [arXiv 2024] | Reasoning-First Benchmarks |
+| [ITFormer: Bridging Time Series and Natural Language for   Multi-Modal QA with Large-Scale Multitask Dataset](https://openreview.net/forum?id=GByP03IitA) [ICML 2025] | Reasoning-First Benchmarks |
+| [GEM: Empowering MLLM for Grounded ECG Understanding with Time   Series and Images](https://arxiv.org/abs/2503.06073) [arXiv 2025] | Reasoning-Ready Benchmarks |
+| [See it, Think it, Sorted: Large Multimodal Models are Few-shot   Time Series Anomaly Analyzers](https://arxiv.org/abs/2411.02465) [arXiv 2024] | Reasoning-Ready Benchmarks |
+| [GPT4MTS: Prompt-Based Large Language Model for Multimodal   Time-Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/30383) [AAAI 2024] | Reasoning-Ready Benchmarks |
+| [Multi-Modal Forecaster: Jointly Predicting Time Series and   Textual Data](https://arxiv.org/abs/2411.06735) [arXiv 2024] | Reasoning-Ready Benchmarks |
+| [Retrieval-augmented Large Language Models for Financial Time   Series Forecasting](https://arxiv.org/abs/2502.05878) [arXiv 2025] | Reasoning-Ready Benchmarks |
+| [TEMPO: Prompt-based Generative Pre-trained Transformer for   Time Series Forecasting](https://openreview.net/forum?id=YH5w12OUuU) [ICLR 2024] | Reasoning-Ready Benchmarks |
+| [Time Travel is Cheating: Going Live with DeepFund for   Real-Time Fund Investment Benchmarking](https://arxiv.org/abs/2505.11065) [arXiv 2025] | Reasoning-Ready Benchmarks |
+| [Momentor: Advancing Video Large Language Model with   Fine-Grained Temporal Reasoning](https://arxiv.org/abs/2402.11435) [ICML 2024] | Reasoning-Ready Benchmarks |
+| [MoTime: A Dataset Suite for Multimodal Time Series Forecasting](https://arxiv.org/abs/2505.15072) [arXiv 2025] | Reasoning-Ready Benchmarks |
+| [Time-IMM: A Dataset and Benchmark for Irregular Multimodal   Multivariate Time Series](https://arxiv.org/abs/2506.10412) [arXiv 2025] | Reasoning-Ready Benchmarks |
+| [Time-MMD: Multi-Domain Multimodal Dataset for Time Series   Analysis](https://openreview.net/forum?id=fuD0h4R1IL) [NeurIPS 2024] | Reasoning-Ready Benchmarks |
+| [TSFM-Bench: A Comprehensive and Unified Benchmark of   Foundation Models for Time Series Forecasting](https://doi.org/10.1145/3711896.3737442) [KDD 2025] | Reasoning-Ready Benchmarks |
+| [Well Googled is Half Done: Multimodal Forecasting of New   Fashion Product Sales with Image-based Google Trends](https://arxiv.org/abs/2109.09824) [Journal of Forecasting 2024] | Reasoning-Ready Benchmarks |
+| [Time-RA: Towards Time Series Reasoning for Anomaly with LLM   Feedback](https://arxiv.org/abs/2507.15066) [arXiv 2025] | Reasoning-Ready Benchmarks |
+| [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason   about Time Series via Visualization](https://aclanthology.org/2025.naacl-long.383/) [NAACL 2025] | General-Purpose Time Series Benchmarks |
+| [Are Language Models Actually Useful for Time Series   Forecasting?](https://openreview.net/forum?id=DV15UbHCY1) [NeurIPS 2024] | General-Purpose Time Series Benchmarks |
+| [Can Large Language Models Adequately Perform Symbolic   Reasoning Over Time Series?](https://arxiv.org/abs/2508.03963) [arXiv 2025] | General-Purpose Time Series Benchmarks |
+| [Can LLMs Understand Time Series Anomalies?](https://openreview.net/forum?id=LGafQ1g2D2) [ICLR 2025] | General-Purpose Time Series Benchmarks |
+| [Can Multimodal LLMs Perform Time Series Anomaly Detection?](https://arxiv.org/abs/2502.17812) [arXiv 2025] | General-Purpose Time Series Benchmarks |
+| [TimeSeriesExam: A Time Series Understanding Exam](https://openreview.net/forum?id=oXRX7ABgLz) [NeurIPS Workshop on Time   Series in the Age of Large Models 2024] | General-Purpose Time Series Benchmarks |
+| [Can LLMs Serve As Time Series Anomaly Detectors?](https://arxiv.org/abs/2408.03475) [arXiv 2024] | General-Purpose Time Series Benchmarks |
+| [Language Models Still Struggle to Zero-shot Reason about Time   Series](https://aclanthology.org/2024.findings-emnlp.201/) [EMNLP 2024] | General-Purpose Time Series Benchmarks |
+| [Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and   Natural Language Data](https://arxiv.org/abs/2503.10883) [arXiv 2025] | General-Purpose Time Series Benchmarks |
+| [ChatTS: Aligning Time Series with LLMs via Synthetic Data for   Enhanced Understanding and Reasoning](https://arxiv.org/abs/2412.03104) [VLDB 2025] | General-Purpose Time Series Benchmarks |
+| [Domain-Oriented Time Series Inference Agents for Reasoning and   Automated Analysis](https://arxiv.org/abs/2410.04047) [arXiv 2025] | General-Purpose Time Series Benchmarks |
+| [FinBen: An Holistic Financial Benchmark for Large Language   Models](https://openreview.net/forum?id=loDHZstVP6) [NeurIPS 2024] | General-Purpose Time Series Benchmarks |
+| [FinTSB: A Comprehensive and Practical Benchmark for Financial   Time Series Forecasting](https://arxiv.org/abs/2502.18834) [arXiv 2025] | General-Purpose Time Series Benchmarks |
+| [Foundation Models for Time Series Analysis: A Tutorial and   Survey](https://doi.org/10.1145/3637528.3671451) [KDD 2024] | Surveys and Tutorials |
+| [Large Language Models for Forecasting and Anomaly Detection: A   Systematic Literature Review](https://arxiv.org/abs/2402.10350) [arXiv 2024] | Surveys and Tutorials |
+| [Empowering Time Series Analysis with Synthetic Data: A Survey   and Outlook in the Era of Foundation Models](https://arxiv.org/abs/2503.11411) [arXiv 2025] | Surveys and Tutorials |
+| [Integrating Artificial Intelligence Agents with the Internet   of Things for Enhanced Environmental Monitoring: Applications in Water   Quality and Climate Data](https://www.mdpi.com/2079-9292/14/4/696) [Electronics 2025] | Surveys and Tutorials |
+| [LLMs Meet Cross-Modal Time Series Analytics: Overview and   Directions](https://arxiv.org/abs/2507.10620) [arXiv 2025] | Surveys and Tutorials |
+| [Are Language Models Actually Useful for Time Series   Forecasting?](https://openreview.net/forum?id=DV15UbHCY1) [NeurIPS 2024] | Position and Vision Papers |
+| [Context parroting: A simple but tough-to-beat baseline for   foundation models in scientific machine learning](https://arxiv.org/abs/2505.11349) [arXiv 2025] | Position and Vision Papers |
+| [Position: Empowering Time Series Reasoning with Multimodal   LLMs](https://arxiv.org/abs/2502.01477) [arXiv 2025] | Position and Vision Papers |
+| [Position: What Can Large Language Models Tell Us about Time   Series Analysis](https://arxiv.org/abs/2402.02713) [ICML 2024] | Position and Vision Papers |
 
 
 ---
