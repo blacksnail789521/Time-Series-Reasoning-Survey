@@ -26,7 +26,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
 <table border="1" cellspacing="0" cellpadding="5">
   <thead>
     <tr>
-      <th width="250">Paper</th>
+      <th width="1000">Paper</th>
       <th width="150">Reasoning Topology</th>
       <th width="180">Primary Objective</th>
       <th width="220">Primary Objective Subcategory</th>
