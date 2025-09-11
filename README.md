@@ -28,6 +28,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
   <thead>
     <tr>
       <th>Paper</th>
+      <th>Paper Link</th>
       <th>Reasoning Topology</th>
       <th>Primary Objective</th>
       <th>Primary Objective Subcategory</th>
@@ -43,9 +44,8 @@ The following table presents the unified taxonomy and tags for all papers we rev
   </thead>
   <tbody>
     <tr>
-      <td style="white-space:nowrap;">
-        <a href="https://arxiv.org/abs/2205.13504">Large Language Models Are Zero-Shot Time Series Forecasters</a>
-      </td>
+      <td>Large Language Models Are Zero-Shot Time Series Forecasters</td>
+      <td>[arXiv:2205.13504](https://arxiv.org/abs/2205.13504)</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
@@ -59,9 +59,8 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">P</td>
     </tr>
     <tr>
-      <td style="white-space:nowrap;">
-        <a href="https://arxiv.org/abs/2302.02041">Context is Key: A Benchmark for Forecasting with Essential Textual Information</a>
-      </td>
+      <td>Context is Key: A Benchmark for Forecasting with Essential Textual Information</td>
+      <td>[arXiv:2302.02041](https://arxiv.org/abs/2302.02041)</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
@@ -75,9 +74,8 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">P</td>
     </tr>
     <tr>
-      <td style="white-space:nowrap;">
-        <a href="https://arxiv.org/abs/2310.19771">DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting</a>
-      </td>
+      <td>DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting</td>
+      <td>[arXiv:2310.19771](https://arxiv.org/abs/2310.19771)</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
@@ -91,9 +89,8 @@ The following table presents the unified taxonomy and tags for all papers we rev
       <td align="center">S</td>
     </tr>
     <tr>
-      <td style="white-space:nowrap;">
-        <a href="https://arxiv.org/abs/2306.03009">TEMPO: Prompt-Based Generative Pre-Trained Transformer for Time Series Forecasting</a>
-      </td>
+      <td>TEMPO: Prompt-Based Generative Pre-Trained Transformer for Time Series Forecasting</td>
+      <td>[arXiv:2306.03009](https://arxiv.org/abs/2306.03009)</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
@@ -109,6 +106,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
   </tbody>
 </table>
 </div>
+
 
 
 
