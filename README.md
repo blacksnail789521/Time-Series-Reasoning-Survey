@@ -43,7 +43,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
   </thead>
   <tbody>
     <tr>
-      <td>Large Language Models Are Zero-Shot Time Series Forecasters(https://arxiv.org/abs/2205.13504)</td>
+      <td>Large Language Models Are Zero-Shot Time Series Forecasters (https://arxiv.org/abs/2205.13504)</td>
       <td>Direct Reasoning</td>
       <td>Traditional Time Series Analysis</td>
       <td>Forecasting</td>
