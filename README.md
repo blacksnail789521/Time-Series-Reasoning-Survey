@@ -23,12 +23,83 @@ The following table presents the unified taxonomy and tags for all papers we rev
 
 ## Curated Papers
 
-| Paper | Reasoning Topology | Primary Objective | Primary Objective Subcategory | T-Dec | T-Ver | T-Ens | T-Tool | T-Know | T-Multi | T-Agent | T-Align |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| Large Language Models Are Zero-Shot Time Series Forecasters | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | 0 | P |
-| Context is Key: A Benchmark for Forecasting with Essential Textual Information | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | P |
-| DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | S |
-| TEMPO: Prompt-Based Generative Pre-Trained Transformer for Time Series Forecasting | Direct Reasoning | Traditional Time Series Analysis | Forecasting | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | S |
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th width="250">Paper</th>
+      <th width="150">Reasoning Topology</th>
+      <th width="180">Primary Objective</th>
+      <th width="220">Primary Objective Subcategory</th>
+      <th>T-Dec</th>
+      <th>T-Ver</th>
+      <th>T-Ens</th>
+      <th>T-Tool</th>
+      <th>T-Know</th>
+      <th>T-Multi</th>
+      <th>T-Agent</th>
+      <th>T-Align</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Large Language Models Are Zero-Shot Time Series Forecasters</td>
+      <td>Direct Reasoning</td>
+      <td>Traditional Time Series Analysis</td>
+      <td>Forecasting</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>TRUE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>0</td>
+      <td>P</td>
+    </tr>
+    <tr>
+      <td>Context is Key: A Benchmark for Forecasting with Essential Textual Information</td>
+      <td>Direct Reasoning</td>
+      <td>Traditional Time Series Analysis</td>
+      <td>Forecasting</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>TRUE</td>
+      <td>0</td>
+      <td>P</td>
+    </tr>
+    <tr>
+      <td>DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting</td>
+      <td>Direct Reasoning</td>
+      <td>Traditional Time Series Analysis</td>
+      <td>Forecasting</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>TRUE</td>
+      <td>0</td>
+      <td>S</td>
+    </tr>
+    <tr>
+      <td>TEMPO: Prompt-Based Generative Pre-Trained Transformer for Time Series Forecasting</td>
+      <td>Direct Reasoning</td>
+      <td>Traditional Time Series Analysis</td>
+      <td>Forecasting</td>
+      <td>TRUE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>FALSE</td>
+      <td>TRUE</td>
+      <td>0</td>
+      <td>S</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
