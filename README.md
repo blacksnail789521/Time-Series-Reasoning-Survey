@@ -82,7 +82,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
     <td>S</td>
   </tr>
   <tr>
-    <td>TEMPO: PROMPT-BASED GENERATIVE   PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING https://arxiv.org/abs/2306.03009</td>
+    <td>.............................................................................</td>
     <td>Direct Reasoning</td>
     <td>Traditional Time Series Analysis</td>
     <td>Forecasting</td>
