@@ -23,84 +23,79 @@ The following table presents the unified taxonomy and tags for all papers we rev
 
 ## Curated Papers
 
-<div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
-<table style="width:100%" border="2">
-  <thead>
-    <tr>
-      <th>Paper</th>
-      <th>Reasoning Topology</th>
-      <th>Primary Objective</th>
-      <th>Primary Objective Subcategory</th>
-      <th>T-Dec</th>
-      <th>T-Ver</th>
-      <th>T-Ens</th>
-      <th>T-Tool</th>
-      <th>T-Know</th>
-      <th>T-Multi</th>
-      <th>T-Agent</th>
-      <th>T-Align</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Large Language Models Are Zero-Shot Time Series Forecasters</td>
-      <td>Direct Reasoning</td>
-      <td>Traditional Time Series Analysis</td>
-      <td>Forecasting</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">TRUE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">0</td>
-      <td align="center">P</td>
-    </tr>
-    <tr>
-      <td>Context is Key: A Benchmark for Forecasting with Essential Textual Information</td>
-      <td>Direct Reasoning</td>
-      <td>Traditional Time Series Analysis</td>
-      <td>Forecasting</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">TRUE</td>
-      <td align="center">0</td>
-      <td align="center">P</td>
-    </tr>
-    <tr>
-      <td>DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting</td>
-      <td>Direct Reasoning</td>
-      <td>Traditional Time Series Analysis</td>
-      <td>Forecasting</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">TRUE</td>
-      <td align="center">0</td>
-      <td align="center">S</td>
-    </tr>
-    <tr>
-      <td>TEMPO: Prompt-Based Generative Pre-Trained Transformer for Time Series Forecasting</td>
-      <td>Direct Reasoning</td>
-      <td>Traditional Time Series Analysis</td>
-      <td>Forecasting</td>
-      <td align="center">TRUE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">FALSE</td>
-      <td align="center">TRUE</td>
-      <td align="center">0</td>
-      <td align="center">S</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<table><thead>
+  <tr>
+    <th>Paper</th>
+    <th>Reasoning Topology</th>
+    <th>Primary Objective</th>
+    <th>Primary Objective Subcategory</th>
+    <th>T-Dec</th>
+    <th>T-Ver</th>
+    <th>T-Ens</th>
+    <th>T-Tool</th>
+    <th>T-Know</th>
+    <th>T-Multi</th>
+    <th>T-Agent</th>
+    <th>T-Align</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Large Language Models Are   Zero-Shot Time Series Forecasters</td>
+    <td>Direct Reasoning</td>
+    <td>Traditional Time Series Analysis</td>
+    <td>Forecasting</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>TRUE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>0</td>
+    <td>P</td>
+  </tr>
+  <tr>
+    <td>Context is Key: A Benchmark   for Forecasting with Essential Textual Information</td>
+    <td>Direct Reasoning</td>
+    <td>Traditional Time Series Analysis</td>
+    <td>Forecasting</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>TRUE</td>
+    <td>0</td>
+    <td>P</td>
+  </tr>
+  <tr>
+    <td>DP-GPT4MTS: Dual-Prompt Large   Language Model for Textual-Numerical Time Series Forecasting</td>
+    <td>Direct Reasoning</td>
+    <td>Traditional Time Series Analysis</td>
+    <td>Forecasting</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>TRUE</td>
+    <td>0</td>
+    <td>S</td>
+  </tr>
+  <tr>
+    <td>TEMPO: PROMPT-BASED GENERATIVE   PRE-TRAINED TRANSFORMER FOR TIME SERIES FORECASTING https://arxiv.org/abs/2306.03009</td>
+    <td>Direct Reasoning</td>
+    <td>Traditional Time Series Analysis</td>
+    <td>Forecasting</td>
+    <td>TRUE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>FALSE</td>
+    <td>TRUE</td>
+    <td>0</td>
+    <td>S</td>
+  </tr>
+</tbody></table>
 
 
 
