@@ -23,9 +23,8 @@ The following table presents the unified taxonomy and tags for all papers we rev
 
 ## Curated Papers
 
-| Paper | Reasoning Topology | Primary Objective | Primary Objective Subcategory | T-Dec | T-Ver | T-Ens | T-Tool | T-Know | T-Multi | T-Agent | T-Align |
+| &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Paper&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Reasoning Topology | Primary Objective | Primary Objective Subcategory | T-Dec | T-Ver | T-Ens | T-Tool | T-Know | T-Multi | T-Agent | T-Align |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... | ...... |
 | [Large Language Models Are Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2310.07820) [NeurIPS 2023] | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | 0 | P |
 | [Context is Key: A Benchmark for Forecasting with Essential Textual Information](https://arxiv.org/abs/2410.18959) [ICML 2025] | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | P |
 | [DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting](https://arxiv.org/abs/2508.04239) [arXiv 2025] | Direct Reasoning | Traditional Time Series Analysis | Forecasting | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | 0 | S |
