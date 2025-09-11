@@ -23,8 +23,8 @@ The following table presents the unified taxonomy and tags for all papers we rev
 
 ## Curated Papers
 
-<div style="overflow-x: auto; width:100%;">
-<table style="width:100%" border="2" cellspacing="0" cellpadding="5">
+<div style="overflow-x: auto; overflow-y: auto; height: auto; width:100%;">
+<table style="width:100%" border="2">
   <thead>
     <tr>
       <th>Paper</th>
