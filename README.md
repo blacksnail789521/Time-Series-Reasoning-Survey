@@ -19,7 +19,12 @@ We complement this two-level taxonomy with **attribute tags** that capture contr
 This repository curates and classifies papers in the field.  
 The following table presents the unified taxonomy and tags for all papers we review.
 
----
+## Table of Contents
+
+- [Direct Reasoning](#research-papers-for-direct-reasoning)
+- [Linear Chain Reasoning](#research-papers-for-linear-chain-reasoning)
+- [Branch-Structured Reasoning](#research-papers-for-branch-structured-reasoning)
+- [Non-Research Papers](#non-research-papers)
 
 ## Research Papers for Direct Reasoning
 
@@ -48,9 +53,6 @@ The following table presents the unified taxonomy and tags for all papers we rev
 | [Momentor: Advancing Video Large Language Model with   Fine-Grained Temporal Reasoning](https://arxiv.org/abs/2402.11435) [ICML 2024] | Expl. & Und. | Expl. Diagn. |  |  |  |  |  | ✔ | 0 | P |
 | [RealTCD: Temporal Causal Discovery from Interventional Data   with Large Language Model](https://doi.org/10.1145/3627673.3680042) [CIKM 2024] | Expl. & Und. | Struct. Disc. |  |  |  |  |  |  | 0 | P |
 | [GG-LLM: Geometrically Grounding Large Language Models for   Zero-shot Human Activity Forecasting in Human-Aware Task Planning](https://doi.org/10.1109/ICRA57147.2024.10611090) [ICRA 2024] | Causal Inf. | Auto. Policy |  |  |  |  |  |  | 0 | P |
-
-
----
 
 ## Research Papers for Linear Chain Reasoning
 
