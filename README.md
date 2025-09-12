@@ -90,8 +90,6 @@ The following table presents the unified taxonomy and tags for all papers we rev
 | [Using Gen AI Agents With GAE And VAE To Enhance Resilience Of   Us Markets](https://ssrn.com/abstract=5123068) [SSRN 2025] | TS Gen. | Cond. Synth. |  | ✔ |  | ✔ | ✔ |  | 0 | P |
 
 
----
-
 ## Research Papers for Branch-Structured Reasoning
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paper&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Primary Objective | Task | T-Dec | T-Ver | T-Ens | T-Tool | T-Know | T-Multi | T-Agent | T-Align |
@@ -120,8 +118,6 @@ The following table presents the unified taxonomy and tags for all papers we rev
 | [TradingAgents: Multi-Agents LLM Financial Trading Framework](https://openreview.net/forum?id=4QPrXwMQt1) [AAA Workshop on Multi-Agent AI   in the Real World 2025] | Causal Inf. | Auto. Policy | ✔ | ✔ |  | ✔ | ✔ | ✔ | M | P |
 | [BRIDGE: Bootstrapping Text to Control Time-Series Generation   via Multi-Agent Iterative Optimization and Diffusion Modeling](https://openreview.net/forum?id=uRD6wkqulN) [ICML 2025] | TS Gen. | Cond. Synth. | ✔ | ✔ |  | ✔ | ✔ | ✔ | M | P |
 
-
----
 
 ## Non-Research Papers
 
@@ -178,8 +174,6 @@ The following table presents the unified taxonomy and tags for all papers we rev
 | [Position: What Can Large Language Models Tell Us about Time   Series Analysis](https://arxiv.org/abs/2402.02713) [ICML 2024] | Position and Vision Papers |
 
 
----
-
 ## How to Contribute
 
 We welcome contributions to keep this table updated:
@@ -187,8 +181,6 @@ We welcome contributions to keep this table updated:
 1. Add missing papers as new rows following the same format.  
 2. Ensure each paper is annotated with exactly one **Reasoning Topology** and one **Primary Objective**, plus appropriate tags.  
 3. Submit a pull request.
-
----
 
 ## Citation
 
