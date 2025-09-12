@@ -26,6 +26,59 @@ The following table presents the unified taxonomy and tags for all papers we rev
 - [Branch-Structured Reasoning](#research-papers-for-branch-structured-reasoning)
 - [Non-Research Papers](#non-research-papers)
 
+## Abbreviations & Value Definitions
+
+**Covers:** table headers, primary objectives, task values, and attribute tags used in the curated research-paper taxonomy tables.  
+_Non-research papers are listed without attribute tags._
+
+### General Table Headers
+| Full Name        | Abbreviation / Values |
+|------------------|------------------------|
+| Primary Objective | Prim. Obj. |
+
+### Attribute Tag Headers (8 total)
+| Full Name                  | Abbreviation |
+|---------------------------|--------------|
+| Task Decomposition        | T-Dec        |
+| Verification and Critique | T-Ver        |
+| Ensemble Selection        | T-Ens        |
+| Tool Use                  | T-Tool       |
+| Knowledge Access          | T-Know       |
+| Multimodal Inputs         | T-Multi      |
+| Agents                    | T-Agent      |
+| LLM Alignment             | T-Align      |
+
+### Primary Objective Values
+| Full Name                               | Abbreviation |
+|-----------------------------------------|--------------|
+| Traditional Time Series Analysis        | Trad. TS Anal. |
+| Explanation and Understanding           | Expl. & Und. |
+| Causal Inference and Decision Making    | Causal Inf.  |
+| Time Series Generation                  | TS Gen.      |
+
+### Task Values
+| Full Name                     | Abbreviation |
+|------------------------------|--------------|
+| Forecasting                  | Forc.        |
+| Classification               | Class.       |
+| Anomaly Detection            | Anom. Det.   |
+| Segmentation                 | Segm.        |
+| Multiple Tasks               | Mult. Tasks  |
+| Temporal Question Answering  | Temp. QA     |
+| Explanatory Diagnostics      | Expl. Diagn. |
+| Structure Discovery          | Struct. Disc.|
+| Autonomous Policy Learning   | Auto. Policy |
+| Advisory Decision Support    | Adv. Dec. Supp. |
+| Conditioned Synthesis        | Cond. Synth. |
+
+### Attribute Tag Values (Legend)
+| Tag(s)                             | Values / Meaning                                                |
+|-----------------------------------|------------------------------------------------------------------|
+| T-Dec, T-Ver, T-Ens, T-Tool, T-Know, T-Multi | `✔ = present`, empty = absent                           |
+| T-Agent                            | `0 = no agent`, `1 = single agent`, `M = multiple agents`       |
+| T-Align                            | `P = Prompting`, `S = Supervised fine-tuning`, `R = Reinforcement/preference alignment`, `H = Hybrid` |
+
+
 ## Research Papers for Direct Reasoning
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paper&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Primary Objective | Task | T-Dec | T-Ver | T-Ens | T-Tool | T-Know | T-Multi | T-Agent | T-Align |
