@@ -21,6 +21,7 @@ The following table presents the unified taxonomy and tags for all papers we rev
 
 ## Table of Contents
 
+- [Abbreviations & Value Definitions](#abbreviations--value-definitions)
 - [Direct Reasoning](#research-papers-for-direct-reasoning)
 - [Linear Chain Reasoning](#research-papers-for-linear-chain-reasoning)
 - [Branch-Structured Reasoning](#research-papers-for-branch-structured-reasoning)
@@ -28,13 +29,9 @@ The following table presents the unified taxonomy and tags for all papers we rev
 
 ## Abbreviations & Value Definitions
 
-**Covers:** table headers, primary objectives, task values, and attribute tags used in the curated research-paper taxonomy tables.  
-_Non-research papers are listed without attribute tags._
+**Covers:** abbreviations and value definitions for primary objectives, task values, and attribute tags used in the curated research-paper taxonomy tables.  
 
-### General Table Headers
-| Full Name        | Abbreviation / Values |
-|------------------|------------------------|
-| Primary Objective | Prim. Obj. |
+_Non-research papers are listed without attribute tags._
 
 ### Attribute Tag Headers (8 total)
 | Full Name                  | Abbreviation |
@@ -77,6 +74,7 @@ _Non-research papers are listed without attribute tags._
 | T-Dec, T-Ver, T-Ens, T-Tool, T-Know, T-Multi | `✔ = present`, empty = absent                           |
 | T-Agent                            | `0 = no agent`, `1 = single agent`, `M = multiple agents`       |
 | T-Align                            | `P = Prompting`, `S = Supervised fine-tuning`, `R = Reinforcement/preference alignment`, `H = Hybrid` |
+
 
 
 ## Research Papers for Direct Reasoning
