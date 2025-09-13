@@ -16,8 +16,19 @@ This survey organizes the field along two levels:
 
 We complement this two-level taxonomy with **attribute tags** that capture control-flow operators (decomposition, verification, ensembling), execution actors (tool use, agents), information sources (knowledge access, multimodality), and alignment regimes (prompting, supervised finetuning, reinforcement/preference, hybrid).
 
-This repository curates and classifies papers in the field.  
-The following table presents the unified taxonomy and tags for all papers we review.
+This repository curates and classifies both **research papers** and **non-research contributions** in the field.  
+- Research papers are categorized by reasoning topology and primary objective.  
+- Non-research papers include datasets & benchmarks (reasoning-first, reasoning-ready, general-purpose TS), as well as surveys, tutorials, and position/vision papers.  
+
+The following table presents the unified taxonomy and tags for all research papers we review, while non-research contributions are grouped separately for completeness.
+
+## Paper Counts
+
+The distribution of surveyed papers, split into research and non-research categories:
+
+<p align="center">
+  <img src="Figures/papers_counts.png" alt="Surveyed papers count: research and non-research" width="80%">
+</p>
 
 ## Table of Contents
 
