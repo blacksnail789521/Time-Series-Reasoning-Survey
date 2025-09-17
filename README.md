@@ -1,5 +1,16 @@
 # A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models
 
+[![arXiv](https://img.shields.io/badge/arXiv-2509.11575-b31b1b.svg)](https://arxiv.org/abs/2509.11575)
+[![GitHub Stars](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey/stargazers)
+![Topic](https://img.shields.io/badge/Time%20Series-Reasoning--LLMs-blueviolet)
+[![How to Cite](https://img.shields.io/badge/Cite-bibtex-orange)](#citation)
+
+✨ If you find our **survey on reasoning and agentic systems in time series** useful, consider giving us a **star ⭐ on GitHub** — it helps others discover this work and keeps you updated on future releases.
+
+
+
+## Overview
+
 Time series reasoning treats time as a first-class axis and integrates intermediate evidence into the answer itself.  
 This survey organizes the field along two levels:
 
@@ -235,15 +246,59 @@ _Non-research papers are listed without attribute tags._
 | [Position: Empowering Time Series Reasoning with Multimodal   LLMs](https://arxiv.org/abs/2502.01477) [arXiv 2025] | Position and Vision Papers |
 | [Position: What Can Large Language Models Tell Us about Time   Series Analysis](https://arxiv.org/abs/2402.02713) [ICML 2024] | Position and Vision Papers |
 
-
 ## How to Contribute
 
-We welcome contributions to keep this table updated:
+We welcome contributions to keep this table updated. Please follow these steps:
 
-1. Add missing papers as new rows following the same format.  
-2. Ensure each paper is annotated with exactly one **Reasoning Topology** and one **Primary Objective**, plus appropriate tags.  
-3. Submit a pull request.
+1) Decide **Research vs. Non-Research**
+   - **Research** = new methods/analyses with experiments (papers with tasks, tags, etc.).
+   - **Non-Research** = datasets/benchmarks, surveys/tutorials, position/vision papers.
+
+2) If **Research**:
+   - **Pick exactly one _Reasoning Topology_** and add the paper to that table:
+     - Direct Reasoning → [Research Papers for Direct Reasoning](#research-papers-for-direct-reasoning)
+     - Linear Chain Reasoning → [Research Papers for Linear Chain Reasoning](#research-papers-for-linear-chain-reasoning)
+     - Branch-Structured Reasoning → [Research Papers for Branch-Structured Reasoning](#research-papers-for-branch-structured-reasoning)
+   - **Fill columns**: Primary Objective, Task, and attribute tags  
+     (`T-Dec`, `T-Ver`, `T-Ens`, `T-Tool`, `T-Know`, `T-Multi`, `T-Agent` ∈ {0,1,M}, `T-Align` ∈ {P,S,R,H}).
+   - **One objective + one topology only.** Keep tags consistent with the legends.
+
+3) If **Non-Research**:
+   - Add the paper under **Non-Research Papers** in the correct subgroup:
+     - Reasoning-First Benchmarks
+     - Reasoning-Ready Benchmarks
+     - General-Purpose Time Series Benchmarks
+     - Surveys and Tutorials
+     - Position and Vision Papers
+   - **No attribute tags** for non-research entries.
+
+4) Formatting rules
+   - Use the exact row format already in the tables:
+     ```
+     | [Paper Title](link) [Venue/Year] | <Type or columns per table> |
+     ```
+   - Keep venue/year brackets (e.g., `[NeurIPS 2024]`, `[arXiv 2025]`).
+   - Place new rows in **chronological order (newest first)** within each subgroup/table.
+
+5) Open a PR
+   - Title: `Add <Paper Short Title> (<Year>)`
+   - In the PR body, state:
+     - Research vs. non-research
+     - Chosen reasoning topology (if research)
+     - Primary objective, task, and tags you set
+     - Any notes (e.g., multimodal inputs, tools used)
+
 
 ## Citation
 
-If you find this resource useful, please cite our survey (bibtex entry forthcoming).
+If you find this resource useful, please cite our survey.
+```bibtex
+@misc{chang2025surveyreasoningagenticsystems,
+      title={A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models}, 
+      author={Ching Chang and Yidan Shi and Defu Cao and Wei Yang and Jeehyun Hwang and Haixin Wang and Jiacheng Pang and Wei Wang and Yan Liu and Wen-Chih Peng and Tien-Fu Chen},
+      year={2025},
+      eprint={2509.11575},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.11575}, 
+}
