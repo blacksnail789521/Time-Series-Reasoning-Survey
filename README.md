@@ -6,9 +6,8 @@
 [![How to Cite](https://img.shields.io/badge/Cite-bibtex-orange)](#citation)
 
 <p align="center"><sub>
-✨ If you find our <em>survey on reasoning and agentic systems in time series</em> useful, please give us a <strong>star ⭐ on GitHub</strong> — it helps others discover this work and keeps you updated on future releases.
+✨ If you find our <em>survey</em> useful, a <strong>star ⭐ on GitHub</strong> helps others discover it and keeps you updated on future releases.
 </sub></p>
-
 
 ## Overview
 
