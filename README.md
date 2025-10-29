@@ -209,6 +209,7 @@ _Non-research papers are listed without attribute tags._
 | [Inferring Events from Time Series using Language Models](https://arxiv.org/abs/2503.14190) [arXiv 2025] | Reasoning-First Benchmarks |
 | [Intervention-Aware Forecasting: Breaking Historical Limits   from a System Perspective](https://arxiv.org/abs/2405.13522) [arXiv 2024] | Reasoning-First Benchmarks |
 | [ITFormer: Bridging Time Series and Natural Language for   Multi-Modal QA with Large-Scale Multitask Dataset](https://openreview.net/forum?id=GByP03IitA) [ICML 2025] | Reasoning-First Benchmarks |
+| [AssetOpsBench: Benchmarking AI Agents for Task Automation in Industrial Asset Operations and Maintenance](https://arxiv.org/abs/2506.03828) [arXiv 2025] | Reasoning-First Benchmarks |
 | [GEM: Empowering MLLM for Grounded ECG Understanding with Time   Series and Images](https://arxiv.org/abs/2503.06073) [arXiv 2025] | Reasoning-Ready Benchmarks |
 | [See it, Think it, Sorted: Large Multimodal Models are Few-shot   Time Series Anomaly Analyzers](https://arxiv.org/abs/2411.02465) [arXiv 2024] | Reasoning-Ready Benchmarks |
 | [GPT4MTS: Prompt-Based Large Language Model for Multimodal   Time-Series Forecasting](https://ojs.aaai.org/index.php/AAAI/article/view/30383) [AAAI 2024] | Reasoning-Ready Benchmarks |
@@ -218,7 +219,7 @@ _Non-research papers are listed without attribute tags._
 | [Time Travel is Cheating: Going Live with DeepFund for   Real-Time Fund Investment Benchmarking](https://arxiv.org/abs/2505.11065) [arXiv 2025] | Reasoning-Ready Benchmarks |
 | [Momentor: Advancing Video Large Language Model with   Fine-Grained Temporal Reasoning](https://arxiv.org/abs/2402.11435) [ICML 2024] | Reasoning-Ready Benchmarks |
 | [MoTime: A Dataset Suite for Multimodal Time Series Forecasting](https://arxiv.org/abs/2505.15072) [arXiv 2025] | Reasoning-Ready Benchmarks |
-| [Time-IMM: A Dataset and Benchmark for Irregular Multimodal   Multivariate Time Series](https://arxiv.org/abs/2506.10412) [arXiv 2025] | Reasoning-Ready Benchmarks |
+| [Time-IMM: A Dataset and Benchmark for Irregular Multimodal   Multivariate Time Series](https://arxiv.org/abs/2506.10412) [NeurIPS 2025] | Reasoning-Ready Benchmarks |
 | [Time-MMD: Multi-Domain Multimodal Dataset for Time Series   Analysis](https://openreview.net/forum?id=fuD0h4R1IL) [NeurIPS 2024] | Reasoning-Ready Benchmarks |
 | [TSFM-Bench: A Comprehensive and Unified Benchmark of   Foundation Models for Time Series Forecasting](https://doi.org/10.1145/3711896.3737442) [KDD 2025] | Reasoning-Ready Benchmarks |
 | [Well Googled is Half Done: Multimodal Forecasting of New   Fashion Product Sales with Image-based Google Trends](https://arxiv.org/abs/2109.09824) [Journal of Forecasting 2024] | Reasoning-Ready Benchmarks |
