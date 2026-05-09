@@ -136,6 +136,7 @@ _Non-research papers are listed without attribute tags._
 | [TimeRAG: Boosting LLM Time Series Forecasting via   Retrieval-Augmented Generation](https://arxiv.org/abs/2412.16643) [arXiv 2024] | Trad. TS Anal. | Forc. |  |  |  | ✔ | ✔ |  | 0 | P |
 | [Time Series Forecasting as Reasoning: A Slow-Thinking Approach   with Reinforced LLMs](https://arxiv.org/abs/2506.10630) [arXiv 2025] | Trad. TS Anal. | Forc. | ✔ |  |  |  |  |  | 0 | H |
 | [Temporal Data Meets LLM - Explainable Financial Time Series   Forecasting](https://arxiv.org/abs/2306.11025) [arXiv 2023] | Trad. TS Anal. | Forc. | ✔ |  |  | ✔ | ✔ | ✔ | 0 | S |
+| [CAARL: In-Context Learning for Interpretable Co-Evolving Time Series Forecasting](https://arxiv.org/abs/2604.18305) [arXiv 2026] | Trad. TS Anal. | Forc. | ✔ |  |  |  |  |  | 0 | P |
 | [TableTime: Reformulating Time Series Classification as   Training-Free Table Understanding with Large Language Models](https://arxiv.org/abs/2411.15737) [arXiv 2024] | Trad. TS Anal. | Class. | ✔ |  | ✔ | ✔ |  |  | 0 | P |
 | [A Picture is Worth A Thousand Numbers: Enabling LLMs Reason   about Time Series via Visualization](https://aclanthology.org/2025.naacl-long.383/) [NAACL 2025] | Trad. TS Anal. | Class. | ✔ |  |  |  |  | ✔ | 0 | P |
 | [ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and   Retrieval Driven LLM Agents](https://arxiv.org/abs/2508.04038) [arXiv 2025] | Trad. TS Anal. | Class. | ✔ |  |  | ✔ | ✔ |  | M | P |
@@ -173,6 +174,7 @@ _Non-research papers are listed without attribute tags._
 | [Empowering Time Series Forecasting with LLM-Agents](https://arxiv.org/abs/2508.04231) [arXiv 2025] | Trad. TS Anal. | Forc. | ✔ | ✔ |  | ✔ | ✔ |  | 1 | P |
 | [CoLLM: Industrial Large-Small Model Collaboration with Fuzzy   Decision-making Agent and Self-Reflection](https://doi.org/10.1109/TFUZZ.2025.3594229) [IEEE Transactions on Fuzzy   Systems 2025] | Trad. TS Anal. | Forc. |  | ✔ | ✔ |  |  |  | 0 | S |
 | [Explainable Multi-modal Time Series Prediction with   LLM-in-the-Loop](https://arxiv.org/abs/2503.01013) [arXiv 2025] | Trad. TS Anal. | Forc. | ✔ | ✔ | ✔ |  |  | ✔ | M | P |
+| [CastFlow: Learning Role-Specialized Agentic Workflows for Time Series Forecasting](https://arxiv.org/abs/2604.27840) [arXiv 2026] | Trad. TS Anal. | Forc. | ✔ | ✔ | ✔ | ✔ | ✔ |  | 1 | H |
 | [Enhancing LLM Reasoning for Time Series Classification by   Tailored Thinking and Fused Decision](https://arxiv.org/abs/2506.00807) [arXiv 2025] | Trad. TS Anal. | Class. | ✔ | ✔ |  | ✔ |  |  | 0 | P |
 | [ColaCare: Enhancing Electronic Health Record Modeling through   Large Language Model-Driven Multi-Agent Collaboration](https://doi.org/10.1145/3696410.3714877) [WWW 2025] | Trad. TS Anal. | Class. | ✔ | ✔ |  | ✔ | ✔ | ✔ | M | P |
 | [TimeCAP: Learning to Contextualize, Augment, and Predict Time   Series Events with Large Language Model Agents](https://doi.org/10.1609/aaai.v39i17.33989) [AAAI 2025] | Trad. TS Anal. | Class. | ✔ |  | ✔ | ✔ | ✔ | ✔ | M | P |
@@ -185,6 +187,7 @@ _Non-research papers are listed without attribute tags._
 | [Decoding Time Series with LLMs: A Multi-Agent Framework for   Cross-Domain Annotation](https://arxiv.org/abs/2410.17462) [arXiv 2024] | Expl. & Und. | Expl. Diagn. | ✔ | ✔ |  |  |  | ✔ | M | P |
 | [AgentFM: Role-Aware Failure Management for Distributed   Databases with LLM-Driven Multi-Agents](https://doi.org/10.1145/3696630.3728492) [FSE 2025] | Expl. & Und. | Expl. Diagn. | ✔ |  |  | ✔ | ✔ | ✔ | M | P |
 | [ElliottAgents: A Natural Language-Driven Multi-Agent System   for Stock Market Analysis and Prediction](https://aclanthology.org/2024.paclic-1.91/) [PACLIC 2024] | Expl. & Und. | Expl. Diagn. | ✔ | ✔ |  | ✔ | ✔ |  | M | P |
+| [Grammar of the Wave: Towards Explainable Multivariate Time Series Event Detection via Neuro-Symbolic VLM Agents](https://arxiv.org/abs/2603.11479) [arXiv 2026] | Expl. & Und. | Expl. Diagn. | ✔ | ✔ |  | ✔ | ✔ | ✔ | M | P |
 | [Can Large Language Models Adequately Perform Symbolic   Reasoning Over Time Series?](https://arxiv.org/abs/2508.03963) [arXiv 2025] | Expl. & Und. | Struct. Disc. | ✔ | ✔ | ✔ | ✔ |  | ✔ | 0 | P |
 | [FinArena: A Human-Agent Collaboration Framework for Financial   Market Analysis and Forecasting](https://arxiv.org/abs/2503.02692) [arXiv 2025] | Causal Inf. | Auto. Policy | ✔ | ✔ |  | ✔ | ✔ | ✔ | M | P |
 | [FinCon: A Synthesized LLM Multi-Agent System with Conceptual   Verbal Reinforcement for Enhanced Financial Decision Making](https://openreview.net/forum?id=dG1HwKMYbC) [NeurIPS 2024] | Causal Inf. | Auto. Policy | ✔ | ✔ |  | ✔ | ✔ | ✔ | M | P |
