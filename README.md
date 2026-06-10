@@ -1,5 +1,6 @@
 # A Survey of Reasoning and Agentic Systems in Time Series with Large Language Models
 
+[![TMLR](https://img.shields.io/badge/TMLR-Accepted-success.svg)](https://openreview.net/forum?id=l3QW42g6u3)
 [![arXiv](https://img.shields.io/badge/arXiv-2509.11575-b31b1b.svg)](https://arxiv.org/abs/2509.11575)
 [![GitHub Stars](https://img.shields.io/github/stars/blacksnail789521/Time-Series-Reasoning-Survey?style=social)](https://github.com/blacksnail789521/Time-Series-Reasoning-Survey/stargazers)
 ![Topic](https://img.shields.io/badge/Time%20Series-Reasoning--LLMs-blueviolet)
